@@ -23,6 +23,8 @@ subtype PIS,
 
 42;
 __END__
+=encoding utf8
+
 =head1 NAME
 
 MooseX::Types::PIS - PIS type for Moose classes
