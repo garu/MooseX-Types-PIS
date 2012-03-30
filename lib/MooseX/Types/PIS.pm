@@ -3,7 +3,7 @@ package MooseX::Types::PIS;
 use warnings;
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use MooseX::Types -declare => ['PIS'];
 use MooseX::Types::Moose qw(Str);
